@@ -290,6 +290,14 @@
       "description": "Escolha o estilo de marcador usado para eventos na visualização do mapa.",
       "label": "Marcador de evento"
     },
+    "globe": {
+      "description": "",
+      "label": ""
+    },
+    "globeFarSide": {
+      "description": "",
+      "label": ""
+    },
     "markers": {
       "circle": "Círculo",
       "diamond": "Losango",

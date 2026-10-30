@@ -1543,7 +1543,7 @@ export default function SettingsModal({
                 <div className="settings-row-left">
                   <div className="settings-row-label">{t("maps.scrollbarDateOnly", "Scrollbar Date Only")}</div>
                   <div className="settings-row-description">
-					{t("maps.scrollbarDateOnlyDescription", "Only show map markers active at the current date shown in the scrollbar.")}
+                    {t("maps.scrollbarDateOnlyDescription", "Only show map markers active at the current date shown in the scrollbar.")}
                   </div>
                 </div>
                 <div className="settings-row-right">

@@ -198,6 +198,11 @@
     "timelineField": "Linha do tempo",
     "wholeTimeline": "Linha do tempo inteira"
   },
+  "map": {
+    "autoRotate": "",
+    "globeUnavailable": "",
+    "mode": ""
+  },
   "mapPick": {
     "escToCancel": "Esc para cancelar"
   },
@@ -422,6 +427,8 @@
     "calendarView": "Visualização do calendário",
     "export": "Exportar",
     "filter": "Filtrar",
+    "flatMap": "",
+    "globe": "",
     "mapView": "Ver mapa",
     "new": "Novo",
     "searchPlaceholder": "Pesquisar…",
