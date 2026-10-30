@@ -196,6 +196,11 @@
     "timelineField": "Timeline",
     "wholeTimeline": "Whole timeline"
   },
+  "map": {
+    "autoRotate": "Auto-rotate",
+    "globeUnavailable": "Globe needs WebGL, showing the flat map instead",
+    "mode": "Map style"
+  },
   "mapPick": {
     "escToCancel": "Esc to cancel"
   },
@@ -419,6 +424,8 @@
     "calendarView": "Calendar view",
     "export": "Export",
     "filter": "Filter",
+    "flatMap": "Flat map",
+    "globe": "Globe",
     "mapView": "Map View",
     "new": "New",
     "searchPlaceholder": "Search…",
